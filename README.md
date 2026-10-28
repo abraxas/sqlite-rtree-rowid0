@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/sqlite-rtree-rowid0">sqlite-rtree-rowid0</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/sqlite-rtree-rowid0"><strong>https://abraxaslabs.tech/research/sqlite-rtree-rowid0</strong></a>
+</p>
+
 
 # sqlite-rtree-rowid0
 
